@@ -42,6 +42,9 @@ We perform RFM (Recency-Frequency-Monetary) analysis to segment customers, follo
 
 3. Summary of the Datasets and Visualization Part:
 
+   
+<img width="1919" height="786" alt="Screenshot 2025-11-10 192328" src="https://github.com/user-attachments/assets/1ad14292-b33b-48de-b450-9170b4c7874c" />
+
 <img width="1366" height="737" alt="Screenshot 2025-11-10 192601" src="https://github.com/user-attachments/assets/dc8ccc87-966a-455c-92a3-17f9b175b0a0" />
 
 <img width="1411" height="734" alt="Screenshot 2025-11-10 192420" src="https://github.com/user-attachments/assets/8088a59d-d72e-4c08-a0ba-984887cf93a6" />
@@ -53,5 +56,4 @@ We perform RFM (Recency-Frequency-Monetary) analysis to segment customers, follo
 <img width="1431" height="732" alt="Screenshot 2025-11-10 192353" src="https://github.com/user-attachments/assets/a41bfedd-538e-4621-b143-24e0b4482687" />
 
 
-<img width="1919" height="786" alt="Screenshot 2025-11-10 192328" src="https://github.com/user-attachments/assets/1ad14292-b33b-48de-b450-9170b4c7874c" />
 
