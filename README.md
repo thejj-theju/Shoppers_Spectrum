@@ -28,5 +28,30 @@ We perform RFM (Recency-Frequency-Monetary) analysis to segment customers, follo
 
 
 ## Result Snapshot  
-![Project Output](assets/images/output_screenshot.png)  
+
+1. Customer segmentation Tab:
+
+
+<img width="1917" height="782" alt="Screenshot 2025-11-10 192233" src="https://github.com/user-attachments/assets/8d6a39c5-d50a-4d64-88c1-0790c293247e" />
+
+
+2. Product Recommendation Tab:
+   
+
+<img width="1908" height="791" alt="Screenshot 2025-11-10 192254" src="https://github.com/user-attachments/assets/8cf1508f-29ab-411f-abbd-5d3535269374" />
+
+3. Summary of the Datasets and Visualization Part:
+
+<img width="1366" height="737" alt="Screenshot 2025-11-10 192601" src="https://github.com/user-attachments/assets/dc8ccc87-966a-455c-92a3-17f9b175b0a0" />
+
+<img width="1411" height="734" alt="Screenshot 2025-11-10 192420" src="https://github.com/user-attachments/assets/8088a59d-d72e-4c08-a0ba-984887cf93a6" />
+
+
+<img width="1449" height="729" alt="Screenshot 2025-11-10 192534" src="https://github.com/user-attachments/assets/5079ece6-f64e-4580-808e-a5ed77f0fb4e" />
+
+
+<img width="1431" height="732" alt="Screenshot 2025-11-10 192353" src="https://github.com/user-attachments/assets/a41bfedd-538e-4621-b143-24e0b4482687" />
+
+
+<img width="1919" height="786" alt="Screenshot 2025-11-10 192328" src="https://github.com/user-attachments/assets/1ad14292-b33b-48de-b450-9170b4c7874c" />
 
